@@ -1,0 +1,7 @@
+Backend/mysql_data/
+Backend/node_modules/
+Front/node_modules/
+Backend/package-lock.json
+Front/package-lock.json
+Backend/bun.lockb
+Front/bun.lockb
